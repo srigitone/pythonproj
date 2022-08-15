@@ -8,3 +8,4 @@ def greet(name):
     a parameter
     """
     print("Hello, " + name + ". Good morning!")
+    print("Hello, " + name + ". Good morning!")
